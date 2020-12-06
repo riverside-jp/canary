@@ -1,0 +1,7 @@
+.phpunit.result.cache
+composer.lock
+phpcs.xml
+phpstan.src.neon
+phpstan.tests.neon
+phpunit.xml
+vendor

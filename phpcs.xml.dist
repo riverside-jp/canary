@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ruleset name="riversidehotel/canary coding standard">
+    <description>riversidehotel/canary coding standard</description>
+    <arg value="p"/>
+    <arg name="colors"/>
+    <rule ref="PSR12"/>
+    <file>src</file>
+    <file>tests</file>
+</ruleset>

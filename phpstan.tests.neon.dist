@@ -1,2 +1,5 @@
 parameters:
   level: max
+  ignoreErrors:
+    - '#Call to an undefined method Prophecy\\Prophecy\\ObjectProphecy::isExecutable\(\).#'
+    - '#Parameter \#3 \$strategy of class RiversideHotel\\Canary\\Feature constructor expects RiversideHotel\\Canary\\Partitioning\\Strategy\|null, object given.#'
